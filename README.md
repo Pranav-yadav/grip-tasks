@@ -1,5 +1,5 @@
 # grip-tasks
-#GRIP21 SEP Tasks
+#GRIPSEP21 Tasks
 
 ## Task #1: Prediction using Supervised ML
 
